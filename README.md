@@ -1,4 +1,4 @@
 # surendra
 This is my first professional git page 
 <br/>
-Author - Surendra Sharma
+Author - Surendra Sharma College
